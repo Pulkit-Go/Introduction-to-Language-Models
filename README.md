@@ -1,4 +1,4 @@
 # Introduction-to-Language-Models
 SnT Project Summer 2019
 
-Study in contextual word embeddings using ELMo (Embeddings from Language Models) based on a bidirectional Language Model (biLM).
+Study in contextual word embeddings from ELMo (Embeddings from Language Models) using bidirectional Language Models (biLMs).
