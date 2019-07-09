@@ -3,6 +3,9 @@ from io import open
 import glob
 import os
 
+import unicodedata
+import string
+
 import random
 import time
 import math
@@ -16,11 +19,8 @@ import torch.optim as optim
 
 #Accessing and preprocessing the downloaded data------------------------------
 
-
 def findFiles(path): return glob.glob(path)
 
-import unicodedata
-import string
 
 all_letters = string.ascii_letters + " .,;'"
 n_letters = len(all_letters)
