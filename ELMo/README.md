@@ -1,1 +1,1 @@
-Tensorflow implementation of ELMo
+Tensorflow implementation of ELMo (by AllenAI)
